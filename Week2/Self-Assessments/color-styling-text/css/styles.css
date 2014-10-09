@@ -1,0 +1,20 @@
+/*
+#FCFFF5
+#D1DBBD
+#91AA9D
+#3E606F
+#193441
+*/
+
+h1, #one {
+    background-color: #193441;
+    color: #FCFFF5;
+}
+#four, #two {
+    background-color: #3E606F;
+    color: #D1DBBD;
+}
+#three, #zero {
+    background-color: #91AA9D;
+    color: #FCFFF5;
+}
