@@ -1,9 +1,95 @@
 /*
---Colors--:
-Light: #BECCD9
-Lighter: #6598D7
-Darkest: #2C382B
-Darker: #808645
-Dark: #9DA664
+    --Colors--
+    Light: #BECCD9
+    Lighter: #6598D7
+    Darkest: #2C382B
+    Darker: #808645
+    Dark: #9DA664
 */
-body {background-color: #2C382B}
+
+/*Main Styles*/
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Libre Baskerville'), local('LibreBaskerville-Regular'), url(http://fonts.gstatic.com/s/librebaskerville/v4/pR0sBQVcY0JZc_ciXjFsK7kvRI2YMbVn3Zp4DO7W6yU.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;}
+
+html {
+    background-color: #6598D7;}
+
+body {
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 1px 10px 10px 10px #2C382B;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #BECCD9;
+    font: 16px Georgia, Times, serif normal;}
+
+#contents {
+    margin-top: 20px;}
+
+h1, h2, h3 {
+    font-family: Libre Baskerville, Georgia, Times, serif;
+    font-weight: 900;
+    text-align: center;
+    border-bottom: solid #808645;
+    margin-bottom: 20px;
+    padding-bottom: 5px}
+
+h1 {
+    padding-bottom: 2px;
+    color: #2C382B;
+    font: 48px Libre Baskerville, Georgia, Times, serif;
+    text-shadow: 2px 2px #6598D7;
+    border-bottom: solid #2C382B;}
+
+h3 {
+    font-size: 20px;
+    font-style: italic;}
+
+p {
+    line-height: 25px;}
+
+/*Navigation*/
+
+ul {
+    margin: auto;
+    width: 250px;
+    list-style: inside circle;}
+
+a:link {
+    text-decoration: none;}
+
+a:visited {
+    color: #6598D7;}
+
+a:hover {
+    text-decoration: underline;}
+
+a:active {
+    color: #2C382B;}
+
+a   {
+    display: block;
+    text-align: center;
+    }
+#new1, #new2 {
+    text-align: center;
+}
+
+/*Images*/
+
+img {
+    height: 768px;
+    width: 1024px;
+    opacity: .9;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px #808645;}
+
+img[src="images/hiking002.jpg"] {
+    height: 638px;}
+/*<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'> test*/
