@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="540c3b42-a61a-4bc5-83a8-7ff41355c215" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week2/Project2/index.html" afterPath="$PROJECT_DIR$/Week2/Project2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week2/Project2/css/styles.css" afterPath="$PROJECT_DIR$/Week2/Project2/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week2/Self-Assessments/box-model/css/styles.css" afterPath="$PROJECT_DIR$/Week2/Self-Assessments/box-model/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="540c3b42-a61a-4bc5-83a8-7ff41355c215" name="Default" comment="" />
     <ignored path="DWS1-O_KevinVanBuren.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week3/Project3/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4981685" vertical-offset="850" max-vertical-offset="4012">
-              <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+            <state vertical-scroll-proportion="-0.8095238" vertical-offset="1615" max-vertical-offset="4012">
+              <caret line="69" column="45" selection-start-line="69" selection-start-column="45" selection-end-line="69" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -640,8 +635,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week3/Project3/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4981685" vertical-offset="850" max-vertical-offset="4012">
-          <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+        <state vertical-scroll-proportion="-0.8095238" vertical-offset="1615" max-vertical-offset="4012">
+          <caret line="69" column="45" selection-start-line="69" selection-start-column="45" selection-end-line="69" selection-end-column="45" />
           <folding />
         </state>
       </provider>
