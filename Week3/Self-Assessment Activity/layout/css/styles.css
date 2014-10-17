@@ -1,11 +1,12 @@
 body {
 	font-size: 80%;
-	font-family: Arial, Courier, monospace;
+	font-family: "Courier New", Courier, monospace;
 	letter-spacing: 0.15em;	
 	background-color: #efefef;
 	}
 		
-#navigation {
+ul {
+    float: left;
 	list-style-type: none;
 	text-align: center;
     width: 625px;
@@ -22,6 +23,7 @@ p {
 	}
 	
 a {
+    display: block;
 	color: #000000;
 	text-transform: uppercase;
 	text-decoration: none;

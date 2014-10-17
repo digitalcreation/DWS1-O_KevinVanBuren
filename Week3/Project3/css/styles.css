@@ -1,0 +1,124 @@
+/*
+    --Colors--
+    Light: #BECCD9
+    Lighter: #6598D7
+    Darkest: #2C382B
+    Darker: #808645
+    Dark: #9DA664
+*/
+
+/*Main Styles*/
+
+html {
+    background-color: #6598D7;}
+
+body {
+    padding: 3%;
+    border-radius: 25px;
+    box-shadow: 1px 10px 10px 10px #2C382B;
+    width: 80%;
+    margin: auto;
+    background-color: #BECCD9;
+    font: 1em Georgia, Times, serif normal;
+}
+
+
+
+
+h1, h2, h3 {
+    font-family: Libre Baskerville, Georgia, Times, serif;
+    font-weight: 900;
+    text-align: center;
+    border-bottom: solid #808645;
+    margin-bottom: 3%;
+    padding-bottom: 5px;}
+
+h1 {
+    padding-bottom: 2px;
+    color: #2C382B;
+    font: 3em Libre Baskerville, Georgia, Times, serif;
+    text-shadow: 2px 2px #6598D7;
+    border-bottom: solid #2C382B;}
+
+h3 {
+    font-style: italic;}
+
+p {
+    line-height: 1.563em;}
+
+/*Navigation*/
+#nav {
+    margin: 0 5%;
+    float: left;
+    width: 25%;
+}
+
+ul {
+    font-weight: bold;
+    line-height: 1.75em;
+    margin: 0;
+    list-style: none;
+}
+
+a:link {
+    text-decoration: none;}
+
+a:visited {
+    color: #6598D7;}
+
+a:hover {
+    text-decoration: underline;}
+
+a:active {
+    color: #2C382B;}
+
+a   {
+    display: block;
+    text-align: center;}
+
+#new1, #new2 {
+    text-align: center;}
+
+/*Images*/
+
+img {
+    margin: 0;
+    height: 76.8%;
+    width: 102.4%;
+    opacity: .9;
+    border-radius: 25px;
+    box-shadow: 1px 5px 5px 1px #808645;}
+
+img[src="images/hiking002.jpg"] {
+    height: 40.5%;
+    width: 65%;
+}
+
+
+
+
+
+
+figure {
+    margin: 0;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.column1, .column2 {
+    width: 40%;
+    float:left;
+    margin: 0 4%;
+    padding: 1px;
+}
+#hazards {
+    clear: both;
+}
+#impact {
+    clear: both;
+}
+#mountainPic {
+    clear: both;
+}
