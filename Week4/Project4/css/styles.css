@@ -1,0 +1,148 @@
+/* Body & Main Styles*/
+html {
+    background-image: url("../images/relic.gif");
+    background-position: 50% 10%;
+}
+
+body {
+    padding: 3%;
+    border-radius: 25px;
+    box-shadow: 1px 10px 10px 10px #2C382B;
+    width: 80%;
+    margin: auto;
+    background-color: #D1E6F0;
+    font: 1em Georgia, Times, serif normal;
+}
+
+h1, h2, h3 {
+    font-family: Libre Baskerville, Georgia, Times, serif;
+    font-weight: 900;
+    text-align: center;
+    border-bottom: solid #808645;
+    margin-bottom: 3%;
+    padding-bottom: 5px;
+}
+
+h1 {
+    border-radius: 40px;
+    background: #a2cdd8; /* Old browsers */
+    background: -moz-linear-gradient(top,  #a2cdd8 0%, #8badba 46%, #3baae5 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a2cdd8), color-stop(46%,#8badba), color-stop(100%,#3baae5)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #a2cdd8 0%,#8badba 46%,#3baae5 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #a2cdd8 0%,#8badba 46%,#3baae5 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #a2cdd8 0%,#8badba 46%,#3baae5 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #a2cdd8 0%,#8badba 46%,#3baae5 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a2cdd8', endColorstr='#3baae5',GradientType=0 ); /* IE6-9 */
+    border-radius: 30px;
+    padding-bottom: 2px;
+    color: #262625;
+    font: 3em Libre Baskerville, Georgia, Times;
+    text-shadow: 2px 2px #7DBED4;
+    border-top: 0;
+    border-bottom: solid #338EC6;
+}
+
+h3 {
+    font-style: italic;
+}
+
+p {
+    line-height: 1.563em;
+}
+
+
+/*Navigation*/
+#nav {
+    background-image: url("../images/hiking-icon.png");
+    background-repeat: no-repeat;
+    background-position: 90% 4.5%;
+    margin: 0 5%;
+    float: left;
+    width: 25%;
+}
+
+ul {
+    font-weight: bold;
+    line-height: 1.75em;
+    margin: 0;
+    list-style: none;
+}
+
+a:link {
+    text-decoration: none;}
+
+a:visited {
+    color: #1B3250;}
+
+a:hover {
+    text-decoration: underline;}
+
+a:active {
+    color: #2C382B;}
+
+a   {
+    display: block;
+    text-align: center;}
+
+#new1, #new2 {
+    text-align: center;}
+
+
+/* Images */
+img {
+    margin: 0;
+    height: 76.8%;
+    width: 102.4%;
+    opacity: .9;
+    border-radius: 25px;
+    box-shadow: 1px 5px 5px 1px #808645;
+}
+
+img[src="images/hiking002.jpg"] {
+    height: 40.5%;
+    width: 65%;
+}
+
+img[src="images/trail.jpg"] {
+    float: right;
+    margin: 14% 1% 14% 0;
+    height: 35%;
+    width: 46.7%;
+}
+
+#mountainPic {
+    clear: both;
+}
+
+#introPhoto {
+    float: right;
+}
+
+figure {
+    margin: 0;
+}
+
+figcaption {
+    text-align: center;
+}
+
+
+/* 2 Column Float */
+.column1, .column2 {
+    width: 40%;
+    float:left;
+    margin: 0 4%;
+    padding: 1px;
+}
+
+#hazards {
+    clear: both;
+}
+
+#impact {
+    clear: both;
+}
+
+#overview {
+    clear: left;
+}
