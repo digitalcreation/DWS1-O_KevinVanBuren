@@ -1,4 +1,4 @@
-/* Body & Main Styles*/
+/*Body & Main Styles*/
 html {
     background-image: url("../images/relic.gif");
     background-position: 50% 10%;
@@ -11,7 +11,7 @@ body {
     width: 80%;
     margin: auto;
     background-color: #D1E6F0;
-    font: 1em Georgia, Times, serif normal;
+    font: 1em Georgia, Times, serif;
 }
 
 h1, h2, h3 {
@@ -32,8 +32,7 @@ h1 {
     background: -o-linear-gradient(top,  #a2cdd8 0%,#8badba 46%,#3baae5 100%); /* Opera 11.10+ */
     background: -ms-linear-gradient(top,  #a2cdd8 0%,#8badba 46%,#3baae5 100%); /* IE10+ */
     background: linear-gradient(to bottom,  #a2cdd8 0%,#8badba 46%,#3baae5 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a2cdd8', endColorstr='#3baae5',GradientType=0 ); /* IE6-9 */
-    border-radius: 30px;
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a2cdd8', endColorstr='#3baae5',GradientType=0 ); /* IE6-9 */
     padding-bottom: 2px;
     color: #262625;
     font: 3em Libre Baskerville, Georgia, Times;
@@ -49,7 +48,7 @@ h3 {
 p {
     line-height: 1.563em;
 }
-
+/*End Body & Main Styles*/
 
 /*Navigation*/
 #nav {
@@ -69,26 +68,32 @@ ul {
 }
 
 a:link {
-    text-decoration: none;}
+    text-decoration: none;
+}
 
 a:visited {
-    color: #1B3250;}
+    color: #1B3250;
+}
 
 a:hover {
-    text-decoration: underline;}
+    text-decoration: underline;
+}
 
 a:active {
-    color: #2C382B;}
+    color: #2C382B;
+}
 
 a   {
     display: block;
-    text-align: center;}
+    text-align: center;
+}
 
 #new1, #new2 {
-    text-align: center;}
+    text-align: center;
+}
+/*End Navigation*/
 
-
-/* Images */
+/*Images*/
 img {
     margin: 0;
     height: 76.8%;
@@ -125,9 +130,9 @@ figure {
 figcaption {
     text-align: center;
 }
+/*End Images*/
 
-
-/* 2 Column Float */
+/*2 Column Float*/
 .column1, .column2 {
     width: 40%;
     float:left;
@@ -146,3 +151,4 @@ figcaption {
 #overview {
     clear: left;
 }
+/*End 2 Column Float*/
