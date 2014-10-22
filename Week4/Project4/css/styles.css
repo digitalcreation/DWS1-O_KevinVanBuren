@@ -121,6 +121,8 @@ img[src="images/trail.jpg"] {
 
 #introPhoto {
     float: right;
+    width: 65%;
+
 }
 
 figure {
