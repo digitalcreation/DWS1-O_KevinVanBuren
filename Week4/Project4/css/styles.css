@@ -57,10 +57,10 @@ p {
 
 
 /*Navigation*/
-#nav {
-    margin: 1% 0 0 10%;
+nav {
+    margin: 1% 0 0 0;
     float: left;
-    width: 250px;
+    width: 25%;
 }
 
 ul li{
@@ -71,7 +71,8 @@ ul li{
     background: #a2cdd8;
     border: outset #8badba;
     border-radius: 25px;
-    margin: 5% 10% 0 0;
+    box-shadow: 1px 1px 2px 2px #8badba;
+    margin: 5% 0 0 0;
 }
 
 ul li a:active {
@@ -96,6 +97,7 @@ a:active {
 }
 
 a {
+    font-size: 1em;
     display: block;
     text-align: center;
 }
@@ -179,10 +181,11 @@ aside {
 
 /*Table*/
 table {
-   border-spacing: 5px 5px;
+    border-spacing: 5px 5px;
     width: 100%;
     padding: 1%;
     background-color: #a2cdd8;
+    border: outset #648f9f;
     border-radius: 25px;
     box-shadow: 1px 1px 5px 5px #8badba;
     margin: 0 0 5% 0;
@@ -207,3 +210,11 @@ tr:hover {
     text-transform: uppercase;
 }
 /*End Table*/
+
+
+/*Form*/
+.title {
+    float: left;
+    width: 100%;
+}
+/*End Form*/

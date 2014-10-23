@@ -14,7 +14,7 @@
             </div>
 
             <nav>
-                <div id="nav">
+
                     <h2 id="contents">Contents</h2>
                     <ul>
                         <li> <a href="index.html"> <abbr title="Go to the top of the page"> Home </abbr></a> </li>
@@ -27,7 +27,7 @@
                         <li> <a href="#resources"> <abbr title="Skip to 'Resources'">Resources</abbr></a> </li>
                         <li> <a href="#contact"> <abbr title="Skip to 'Contact'">Contact</abbr></a> </li>
                     </ul>
-                </div>
+
             </nav>
 
             <div id="introPhoto">
@@ -306,6 +306,28 @@
         </article>
 
         <footer>
+            <form action="http://google.com">
+                Rate This page:
+                <input type="radio" name="rate" value="poor" id="ratePoor"/>
+                <label class="title" for="ratePoor">Poor</label>
+                <input type="radio" name="rate" value="good" id="rateGood"/>
+                <label class="title" for="rateGood">Good</label>
+                <input type="radio" name="rate" value="amazing" checked="checked" id="rateAmazing"/>
+                <label class="title" for="rateAmazing">Amazing</label>
+                <label class="title" for="userName">What is your name?</label>
+                <input type="text" name="name" placeholder="John Doe" maxlength="30" id="userName" required="required"/>
+                <label class="title" for="userEmail">What is your email address?</label>
+                <input type="email" name="email" placeholder="email@example.com" maxlength="30" id="userEmail" required="required"/>
+                <label class="title" for="userSource">How did you find this page?</label>
+                <select name="source" id="userSource">
+                    <option value="facebook">Facebook</option>
+                    <option value="google" selected="selected">Google</option>
+                    <option value="friend">Friend</option>
+                </select>
+                <label class="title" for="userComments">Additional comments?</label>
+                <textarea name="comments" id="userComments" placeholder="Enter your comments here..."></textarea>
+                <input id="submitButton" type="submit" value="Submit" />
+            </form>
             <h3 id="resources">
                 Resources:
             </h3>
