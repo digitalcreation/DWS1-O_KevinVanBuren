@@ -41,6 +41,11 @@ h1 {
     border-bottom: solid #338EC6;
 }
 
+#intro {
+    clear: both;
+    padding: 1% 0 0 0;
+}
+
 h3 {
     font-style: italic;
 }
@@ -50,21 +55,28 @@ p {
 }
 /*End Body & Main Styles*/
 
+
 /*Navigation*/
 #nav {
-    background-image: url("../images/hiking-icon.png");
-    background-repeat: no-repeat;
-    background-position: 90% 4.5%;
-    margin: 0 5%;
+    margin: 1% 0 0 10%;
     float: left;
-    width: 25%;
+    width: 250px;
 }
 
-ul {
+ul li{
+    font-size: 1em;
     font-weight: bold;
     line-height: 1.75em;
-    margin: 0;
     list-style: none;
+    background: #a2cdd8;
+    border: outset #8badba;
+    border-radius: 25px;
+    margin: 5% 10% 0 0;
+}
+
+ul li a:active {
+    border: inset #3baae5;
+    border-radius: 25px;
 }
 
 a:link {
@@ -83,15 +95,16 @@ a:active {
     color: #2C382B;
 }
 
-a   {
+a {
     display: block;
     text-align: center;
 }
 
-#new1, #new2 {
+#new1, #new2, #new3 {
     text-align: center;
 }
 /*End Navigation*/
+
 
 /*Images*/
 img {
@@ -105,12 +118,11 @@ img {
 
 img[src="images/hiking002.jpg"] {
     height: 40.5%;
-    width: 65%;
 }
 
 img[src="images/trail.jpg"] {
-    float: right;
-    margin: 14% 1% 14% 0;
+    float: left;
+    margin: 0 0 5% 35%;
     height: 35%;
     width: 46.7%;
 }
@@ -122,7 +134,7 @@ img[src="images/trail.jpg"] {
 #introPhoto {
     float: right;
     width: 65%;
-
+    margin: 6% 0 0 0;
 }
 
 figure {
@@ -133,6 +145,7 @@ figcaption {
     text-align: center;
 }
 /*End Images*/
+
 
 /*2 Column Float*/
 .column1, .column2 {
@@ -154,3 +167,43 @@ figcaption {
     clear: left;
 }
 /*End 2 Column Float*/
+#history {
+    float: left;
+    width: 65%;
+}
+aside {
+    float: right;
+    width: 30%;
+}
+
+
+/*Table*/
+table {
+   border-spacing: 5px 5px;
+    width: 100%;
+    padding: 1%;
+    background-color: #a2cdd8;
+    border-radius: 25px;
+    box-shadow: 1px 1px 5px 5px #8badba;
+    margin: 0 0 5% 0;
+    font: 1em;
+    text-align: center;
+    letter-spacing: .07em;
+}
+tr.even {
+    background-color: #8badba;
+}
+tr:hover {
+    background-color: #538da3;
+}
+#icon {
+    padding-top: 6%;
+    background-image: url("../images/hiking-icon.png");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.state {
+    text-transform: uppercase;
+}
+/*End Table*/

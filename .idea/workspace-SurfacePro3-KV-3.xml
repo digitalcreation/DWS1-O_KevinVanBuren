@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="540c3b42-a61a-4bc5-83a8-7ff41355c215" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Kevin\OneDrive\Full Sail University\8 - Designing for Web Standards I\Git\DWS1-O_KevinVanBuren\Week1\Project 1\images\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Kevin\OneDrive\Full Sail University\8 - Designing for Web Standards I\Git\DWS1-O_KevinVanBuren\Week3\Self-Assessment Activity\background-images\images\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Kevin\OneDrive\Full Sail University\8 - Designing for Web Standards I\Git\DWS1-O_KevinVanBuren\Week4\Project4\images\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Kevin\OneDrive\Full Sail University\8 - Designing for Web Standards I\Git\DWS1-O_KevinVanBuren\Week4\Self-Assessment Activities\forms\images\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Kevin\OneDrive\Full Sail University\8 - Designing for Web Standards I\Git\DWS1-O_KevinVanBuren\Week4\Self-Assessment Activities\tables\images\Thumbs.db" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week2/Project2/images/Thumbs.db" afterPath="$PROJECT_DIR$/Week2/Project2/images/Thumbs.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week3/Project3/images/Thumbs.db" afterPath="$PROJECT_DIR$/Week3/Project3/images/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week4/Project4/images/Thumbs.db" afterPath="$PROJECT_DIR$/Week4/Project4/images/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week4/Project4/images/trail.jpg" afterPath="$PROJECT_DIR$/Week4/Project4/images/trail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Thumbs.db" afterPath="$PROJECT_DIR$/images/Thumbs.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week4/Project4/index.html" afterPath="$PROJECT_DIR$/Week4/Project4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week4/Project4/css/styles.css" afterPath="$PROJECT_DIR$/Week4/Project4/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS1-O_KevinVanBuren.iws" />
@@ -33,8 +37,8 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week4/Project4/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2683" max-vertical-offset="3638">
-              <caret line="196" column="30" selection-start-line="196" selection-start-column="30" selection-end-line="196" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2601">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,8 +47,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week4/Project4/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7340782" vertical-offset="2420" max-vertical-offset="5780">
-              <caret line="181" column="26" selection-start-line="181" selection-start-column="26" selection-end-line="181" selection-end-column="26" />
+            <state vertical-scroll-proportion="5.44" vertical-offset="0" max-vertical-offset="4641">
+              <caret line="256" column="8" selection-start-line="256" selection-start-column="8" selection-end-line="256" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -83,16 +87,15 @@
         <option value="$PROJECT_DIR$/Week3/Project3/index.html" />
         <option value="$PROJECT_DIR$/Week3/Project3/css/styles.css" />
         <option value="$PROJECT_DIR$/Week4/Self-Assessment Activities/tables/tables.html" />
-        <option value="$PROJECT_DIR$/Week4/Project4/css/styles.css" />
         <option value="$PROJECT_DIR$/Week4/Project4/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="75" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1373" />
+    <option name="height" value="974" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -120,6 +123,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -151,6 +155,32 @@
               <option name="myItemId" value="Week4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Self-Assessment Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tables" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS1-O_KevinVanBuren" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS1-O_KevinVanBuren" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Self-Assessment Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -203,52 +233,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Week3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWS1-O_KevinVanBuren" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWS1-O_KevinVanBuren" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWS1-O_KevinVanBuren" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DWS1-O_KevinVanBuren" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,14 +307,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="75" y="-8" width="1373" height="974" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17317612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -370,8 +359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week4/Project4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3995" max-vertical-offset="4097">
-          <caret line="235" column="7" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="4352" max-vertical-offset="4641">
+          <caret line="256" column="8" selection-start-line="256" selection-start-column="8" selection-end-line="256" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -691,32 +680,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week3/Project3/index.html">
+    <entry file="file://$PROJECT_DIR$/Week3/Project3/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2777778" vertical-offset="3189" max-vertical-offset="4097">
-          <caret line="202" column="32" selection-start-line="202" selection-start-column="32" selection-end-line="202" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.48317048" vertical-offset="1374" max-vertical-offset="2601">
+          <caret line="107" column="22" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week3/Project3/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/Week3/Project3/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0032573289" vertical-offset="966" max-vertical-offset="2601">
-          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.61451244" vertical-offset="3215" max-vertical-offset="4097">
+          <caret line="221" column="79" selection-start-line="0" selection-start-column="0" selection-end-line="235" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week4/Project4/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2683" max-vertical-offset="3638">
-          <caret line="196" column="30" selection-start-line="196" selection-start-column="30" selection-end-line="196" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2601">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week4/Project4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7340782" vertical-offset="2420" max-vertical-offset="5780">
-          <caret line="181" column="26" selection-start-line="181" selection-start-column="26" selection-end-line="181" selection-end-column="26" />
+        <state vertical-scroll-proportion="5.44" vertical-offset="0" max-vertical-offset="4641">
+          <caret line="256" column="8" selection-start-line="256" selection-start-column="8" selection-end-line="256" selection-end-column="8" />
           <folding />
         </state>
       </provider>
