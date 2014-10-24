@@ -5,10 +5,10 @@ html {
 }
 
 body {
-    padding: 3%;
+    padding: 2%;
     border-radius: 25px;
     box-shadow: 1px 10px 10px 10px #2C382B;
-    width: 80%;
+    width: 85%;
     margin: auto;
     background-color: #D1E6F0;
     font: 1em Georgia, Times, serif;
@@ -58,9 +58,9 @@ p {
 
 /*Navigation*/
 nav {
-    margin: 1% 0 0 0;
+    margin: 1% 5% 0 2%;
     float: left;
-    width: 25%;
+    width: 250px;
 }
 
 ul li{
@@ -135,8 +135,8 @@ img[src="images/trail.jpg"] {
 
 #introPhoto {
     float: right;
-    width: 65%;
-    margin: 6% 0 0 0;
+    width: 60%;
+    margin: 3% 7% 0 0;
 }
 
 figure {
@@ -145,6 +145,10 @@ figure {
 
 figcaption {
     text-align: center;
+}
+
+.asidePix {
+    margin: 15% 3% 0 3%;
 }
 /*End Images*/
 
@@ -157,14 +161,9 @@ figcaption {
     padding: 1px;
 }
 
-#hazards {
-    clear: both;
+#etiq, #impact, #hazardsCont {
+    width: 65%
 }
-
-#impact {
-    clear: both;
-}
-
 #overview {
     clear: left;
 }
@@ -174,6 +173,7 @@ figcaption {
     width: 65%;
 }
 aside {
+    margin: .45% 0 0 0;
     float: right;
     width: 30%;
 }
@@ -181,7 +181,7 @@ aside {
 
 /*Table*/
 table {
-    border-spacing: 5px 5px;
+    border-spacing: 0;
     width: 100%;
     padding: 1%;
     background-color: #a2cdd8;
@@ -190,7 +190,7 @@ table {
     box-shadow: 1px 1px 5px 5px #8badba;
     margin: 0 0 5% 0;
     font: 1em;
-    text-align: center;
+    text-align: right;
     letter-spacing: .07em;
 }
 tr.even {
@@ -207,14 +207,80 @@ tr:hover {
 }
 
 .state {
+    text-align: left;
     text-transform: uppercase;
+}
+#trailsTable {
+    margin: 10% 0 0 0;
 }
 /*End Table*/
 
 
 /*Form*/
-.title {
+footer {
+    overflow: auto;
+    margin: 12% 0 0 0;
+}
+
+#ratingForm {
+    background-color: #a2cdd8;
+    border: outset #648f9f;
+    border-radius: 25px;
+    box-shadow: 1px 1px 5px 5px #8badba;
     float: left;
+    font-size: 1.25em;
+    width: 50%;
+}
+
+#ratingTitle {
+    float: left;
+    width: 1%;
+    text-align: right;
+}
+
+#radioButtons {
+    float: left;
+    text-align: left;
+    padding: .25% 0 0 0;
+    margin: 2% 0 0 3%;
     width: 100%;
+    font-size: 1.25em;
+}
+
+.title {
+	float: left;
+	text-align: left;
+	padding: .25% 0 0 0;
+    margin: 2% 0 0 3%;
+	width: 50%;
+	font-size: 1.25em;
+}
+
+.input {
+    float: left;
+    width: 30%;
+    margin: 2% 0 0 5%;
+}
+
+.tile:hover {
+    border: solid;
+}
+
+#submitButton {
+    margin: 0 5% 2% 0;
+    text-align: right;
+    clear:both;
+}
+
+label :focus{
+}
+
+#sources {
+    float: right;
+    width: 25%;
+    margin: 5% 12% 5% 0;
+    border-left: solid;
+    border-left-color: #bbc7cd;
+    padding: 0 0 0 8.1%;
 }
 /*End Form*/
